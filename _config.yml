@@ -14,7 +14,7 @@ author:
   name: COMPOST
 
   # Necessary for contact page
-  email: hello@distributed.press
+  email: hello@compost.digital
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
@@ -110,7 +110,7 @@ stack-overflow:
 bitcoin:
 paypal:
 newsletter: https://lists.hypha.coop/cgi-bin/mailman/listinfo/compost
-email: mailto:hello@distributed.press
+email: mailto:hello@compost.digital
 
 
 #####################
