@@ -1,0 +1,7 @@
+<nav>
+  <!-- <a href="{{ site.baseurl }}/none/">None</a> -->
+  {% if site.twitter %}<a class="fa fa-twitter" href="{{ site.twitter }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+  {% if site.github %}<a class="fa fa-github" href="{{ site.github }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+  {% if site.newsletter %}<a class="fa fa-envelope" href="{{ site.newsletter }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+  {% if site.email %}<a class="fa fa-reply" href="{{ site.email }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+</nav>
