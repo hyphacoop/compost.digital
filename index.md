@@ -32,6 +32,13 @@ Our goal over the next three years is to deploy and maintain an open source tool
 
 If you are excited about COMPOST as we are...
 
-<h2 style="text-align:center;"><a class="fa fa-envelope" href="{{ site.newsletter }}" target="_blank"></a><a href="{{ site.newsletter }}" target="_blank"> Subscribe to our low-traffic mailing list</a></h2>
+<h2><style class="fa fa-envelope"></style> Subscribe to our low-traffic mailing list</h2>
+
+<form style="line-height:1;" method="post" action="https://lists.hypha.coop/cgi-bin/mailman/subscribe/compost">
+  <input style="width:100%; margin-bottom:8px;" type="email" name="email" value="" placeholder="email@example.com">
+  <input style="width:100%; margin-bottom:8px;" type="text" name="fullname" value="" placeholder="Your Name (optional)">
+  <input type="hidden" name="digest" value="1">
+  <input style="width:30%; float:right;" type="submit" name="email-button" value="Subscribe">
+</form>
 
 ---

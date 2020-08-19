@@ -284,6 +284,7 @@ a.read-more {
   font-weight: 600;
 }
 input[type="email"],
+input[type="text"],
 textarea {
   font: inherit;
   display: block;
