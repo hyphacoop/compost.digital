@@ -39,7 +39,7 @@ social-icons-open-newtab: true
 
 footer-text: |
   COMPOST is a project by <a href="https://distributed.press">Distributed Press</a> hosted by <a href="https://hypha.coop">Hypha Worker Co-operative</a>.<br />
-  This website is built with <a href="https://jekyllrb.com">Jekyll</a> and uses the <a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.
+  This website is built with <a href="https://jekyllrb.com">Jekyll</a> and uses a modified theme based on <a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a>.
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png

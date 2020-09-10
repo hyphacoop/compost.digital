@@ -1,6 +1,8 @@
 ---
 ---
 
+<br />
+
 <div class="lede">
   <p> COMPOST is a magazine about our digital commons that provides fertile ground for creative experimentation, cultivates communities that value participation, and celebrates the labor of regeneration and care. We post experiments, reflections, and art about building the Internet as a shared resource.
   </p>
@@ -16,13 +18,14 @@
   <input type="hidden" name="digest" value="1">
   <input type="submit" name="email-button" value="SUBSCRIBE">
 </form>
+
+<div style="clear:both;"></div>
+
 <div class="scroll-below">
-<a href="#publishing-is-broken-creators-are-struggling-public-discourse-is-a-mess">↓</a>
+<a href="#publishing-is-broken-creators-are-struggling-public-discourse-is-a-mess"><i class="fas fa-chevron-down"></i></a>
 </div>
 
-<br>
-<br>
-<br>
+<br />
 
 ## Publishing is broken. Creators are struggling. Public discourse is a mess.
 
@@ -53,6 +56,5 @@ We want to provide readers with a variety of creative work, without paywalls or 
 Our goal over the next three years is to deploy and maintain an open source tool that authors can use to publish content to the DWeb and WWW. The tool will streamline distribution and monetization on the DWeb, editorial and fact checking, and guide authors to establish creator owned cooperative publications. In turn, the tool will be sustained by the federation of cooperative publications it enables.
 
 <div class="scroll-below">
-<a href="#publishing-is-broken-creators-are-struggling-public-discourse-is-a-mess">↑</a>
-
+<a href="#publishing-is-broken-creators-are-struggling-public-discourse-is-a-mess"><i class="fas fa-chevron-up"></i></a>
 </div>
