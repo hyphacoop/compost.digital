@@ -1,11 +1,11 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
 <title>
-{% if page.title %}
-{{ page.title }} • {{ site.name }}
-{% else %}
-{{ site.name }}
-{% endif %}
+  {% if page.title %}
+  {{ page.title }} • {{ site.name }}
+  {% else %}
+  {{ site.name }}
+  {% endif %}
 </title>
 <meta name="description" content="{{ page.summary }} {{ site.description.meta }}">
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="{{ site.baseurl }}/feed.xml">
@@ -22,16 +22,17 @@
 
 <!-- og tags -->
 <meta property="og:site_name" content="{{ site.name }}">
-<meta property="og:title" content="{% if page.title %}{{ page.title }} • {{ site.name }}{% else %}{{ site.name }}{% endif %}">
+<meta property="og:title"
+  content="{% if page.title %}{{ page.title }} • {{ site.name }}{% else %}{{ site.name }}{% endif %}">
 <meta property="og:locale" content="{{ site.lang }}">
 {% if page.og-image %}
-  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.og-image }}">
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.og-image }}">
 {% else %}
-  {% if page.cover-image %}
-    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.cover-image }}">
-  {% else %}
-    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/og-image.jpg">
-  {% endif %}
+{% if page.cover-image %}
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.cover-image }}">
+{% else %}
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/og-image.jpg">
+{% endif %}
 {% endif %}
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
@@ -46,7 +47,11 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="{{ site.baseurl }}/js/modernizr.js"></script>
 <script src="{{ site.baseurl }}/js/fitvids.js"></script>
-<link href='//fonts.googleapis.com/css?family=Source+Code+Pro:400,700|Source+Sans+Pro:600,900|Crimson+Text:700italic,600,600italic,400,700,400italic' rel='stylesheet' type='text/css'>
+<link
+  href='//fonts.googleapis.com/css?family=Source+Code+Pro:400,700|Source+Sans+Pro:600,900|Crimson+Text:700italic,600,600italic,400,700,400italic'
+  rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ site.baseurl }}/css/reset.css">
 <link rel="stylesheet" href="{{ site.baseurl }}/css/pygments.css">
 {% if site.display-social-icons %}
@@ -63,16 +68,18 @@
 
 {% if page.home != true or site.show-subtitle == false and site.display-social-icons == false %}
 <style>
-header {
-  margin-bottom: 40px;
-}
-@media all and (min-width: 500px) {
   header {
-    margin-bottom: 100px;
+    margin-bottom: 40px;
   }
-}
-header::after {
-  display: none;
-}
+
+  @media all and (min-width: 500px) {
+    header {
+      margin-bottom: 100px;
+    }
+  }
+
+  header::after {
+    display: none;
+  }
 </style>
 {% endif %}

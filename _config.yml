@@ -1,9 +1,7 @@
-
 # The name of your website.
 name: COMPOST
 
 description:
-
   # Description of your site. This will show up in google.
   meta: A magazine about the digital commons, telling stories about people building the web as a shared resource.
 
@@ -41,7 +39,7 @@ social-icons-open-newtab: true
 
 footer-text: |
   COMPOST is a project by <a href="https://distributed.press">Distributed Press</a> hosted by <a href="https://hypha.coop">Hypha Worker Co-operative</a>.<br />
-  This website is built with <a href="https://jekyllrb.com">Jekyll</a> and uses the <a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.
+  This website is built with <a href="https://jekyllrb.com">Jekyll</a> and uses a modified theme based on <a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a>.
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
@@ -84,14 +82,13 @@ display-next-prev-post: false
 # Leave empty if you don't want comments on post pages.
 disqus-shortname:
 
-
 ################
 # SOCIAL ICONS #
 ################
 
 # Use a complete url here, including http:// and such. Requiring just usernames
 # has been considered, but this is way more customizable.
-twitter: https://twitter.com/hyphacoop
+twitter: https://twitter.com/compostmag
 youtube:
 instagram:
 tumblr:
@@ -112,7 +109,6 @@ paypal:
 newsletter: https://lists.hypha.coop/cgi-bin/mailman/listinfo/compost
 email: mailto:hello@compost.digital
 
-
 #####################
 # CUSTOMIZABLE TEXT #
 #####################
@@ -132,7 +128,6 @@ var_guest_post_by: Guest post by
 var_your_email: Your email
 var_your_message: Your message
 
-
 ##################
 # BUILD SETTINGS #
 ##################
@@ -146,8 +141,7 @@ kramdown:
 paginate_path: "/page-:num/"
 permalink: pretty
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:

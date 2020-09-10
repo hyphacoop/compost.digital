@@ -4,13 +4,17 @@
 	{% include head.html %}
 </head>
 <body>
+	<div class="top-bar">
+		<div class="top-wrap">
+			{% include header.html %}
+		</div>
+	</div>
 	{% if page.cover-image %}
 	<div class="cover-image-container">
 		<img alt="Cover image" src="{{ site.baseurl }}/img/covers/{{ page.cover-image }}">
 	</div>
 	{% endif %}
 	<div class="wrap">
-		{% include header.html %}
 		{{ content }}
 	  <script>
 	    $("article").fitVids();
