@@ -1,9 +1,7 @@
-
 # The name of your website.
 name: COMPOST
 
 description:
-
   # Description of your site. This will show up in google.
   meta: A magazine about the digital commons, telling stories about people building the web as a shared resource.
 
@@ -84,14 +82,13 @@ display-next-prev-post: false
 # Leave empty if you don't want comments on post pages.
 disqus-shortname:
 
-
 ################
 # SOCIAL ICONS #
 ################
 
 # Use a complete url here, including http:// and such. Requiring just usernames
 # has been considered, but this is way more customizable.
-twitter: https://twitter.com/hyphacoop
+twitter: https://twitter.com/compostmag
 youtube:
 instagram:
 tumblr:
@@ -112,7 +109,6 @@ paypal:
 newsletter: https://lists.hypha.coop/cgi-bin/mailman/listinfo/compost
 email: mailto:hello@compost.digital
 
-
 #####################
 # CUSTOMIZABLE TEXT #
 #####################
@@ -132,7 +128,6 @@ var_guest_post_by: Guest post by
 var_your_email: Your email
 var_your_message: Your message
 
-
 ##################
 # BUILD SETTINGS #
 ##################
@@ -146,8 +141,7 @@ kramdown:
 paginate_path: "/page-:num/"
 permalink: pretty
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
