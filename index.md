@@ -27,9 +27,9 @@ We invite writers, artists, technologists, and organizers to submit creative pit
 
 Send us your pitches responding to the theme _fertile grounds_ by November 22nd 2020. See our submission template below. Your final work could be: 
 
-Short-form written pieces (~2000 words of fiction/non-fiction, personal essays, profiles, interviews, poems etc.) 
-Visual art, illustrations, gifs, comics, or infographics
-Interactive digital pieces, javascript games, anything that can be embedded in a static HTML webpage
+- Short-form written pieces (~2000 words of fiction/non-fiction, personal essays, profiles, interviews, poems etc.) 
+- Visual art, illustrations, gifs, comics, or infographics
+- Interactive digital pieces, javascript games, anything that can be embedded in a static HTML webpage
 
 We will be publishing works with Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) licensing by default. On a case by case basis, we would support authors who want to experiment with other types of licensing.
 
@@ -37,10 +37,10 @@ We will be publishing works with Creative Commons Attribution-ShareAlike 4.0 Int
 
 As a contributor to COMPOST, you will also participate in strategic decision making and share in the financial success of our magazine. In addition to the time you devote to creating your piece, we ask you to commit another (roughly) six hours to COMPOST before we launch. We will compensate you for this time. You will join us during scheduled conversations to help us:
 
-Lay the foundations for COMPOST to become a [co-operative enterprise](https://www.ica.coop/en/cooperatives/what-is-a-cooperative), so that it is democratically owned and controlled by its contributing members;
-Conceptualize and validate new revenue streams using [web monetization](https://webmonetization.org/), Open Collective, and Gitcoin through tips, donations, subscriptions, crowdfunds, or selling premium works and experiences;
-Create a supportive creative environment, encouraging constructive peer feedback and discussions about our magazine’s content and digital implementation;
-Imagine equitable web futures. COMPOST will be published to multiple [DWeb](https://breakermag.com/the-decentralized-web-explained-in-words-you-can-understand/) and Web endpoints, allowing us to use the distinct features of protocols such as [Hypercore](https://hypercore-protocol.org), [IPFS](https://ipfs.io), [SSB](https://scuttlebutt.nz/), among others. What new interactions, communities, and experiences can we cultivate?
+- Lay the foundations for COMPOST to become a [co-operative enterprise](https://www.ica.coop/en/cooperatives/what-is-a-cooperative), so that it is democratically owned and controlled by its contributing members;
+- Conceptualize and validate new revenue streams using [web monetization](https://webmonetization.org/), Open Collective, and Gitcoin through tips, donations, subscriptions, crowdfunds, or selling premium works and experiences;
+- Create a supportive creative environment, encouraging constructive peer feedback and discussions about our magazine’s content and digital implementation;
+- Imagine equitable web futures. COMPOST will be published to multiple [DWeb](https://breakermag.com/the-decentralized-web-explained-in-words-you-can-understand/) and Web endpoints, allowing us to use the distinct features of protocols such as [Hypercore](https://hypercore-protocol.org), [IPFS](https://ipfs.io), [SSB](https://scuttlebutt.nz/), among others. What new interactions, communities, and experiences can we cultivate?
 
 ### PAYMENT FOR YOUR CONTRIBUTIONS
 
