@@ -3,58 +3,106 @@
 
 <br />
 
-<div class="lede">
-  <p> COMPOST is a magazine about our digital commons that provides fertile ground for creative experimentation, cultivates communities that value participation, and celebrates the labor of regeneration and care. We post experiments, reflections, and art about building the Internet as a shared resource.
-  </p>
+# ISSUE ONE: FERTILE GROUNDS
 
-<p>
-  Launching January 2021. Subscribe to our low traffic mailing list for updates.
-</p>
-</div>
+_This website will be a perpetual "work in progress" until the launch of our first issue._
 
-<form style="line-height:1;" method="post" action="https://lists.hypha.coop/cgi-bin/mailman/subscribe/compost">
-  <input type="email" name="email" value="" placeholder="Your email">
-  <input type="text" name="fullname" value="" placeholder="Your name (optional)">
-  <input type="hidden" name="digest" value="1">
-  <input type="submit" name="email-button" value="SUBSCRIBE">
-</form>
+## CALL FOR PITCHES
 
-<div style="clear:both;"></div>
+**DEADLINE: 27 NOV 2020**
 
-<div class="scroll-below">
-<a href="#publishing-is-broken-creators-are-struggling-public-discourse-is-a-mess"><i class="fas fa-chevron-down"></i></a>
-</div>
+COMPOST is a zine about the digital commons. But we also see it as a process to metabolize and renew our relationships with the Web, to imagine and build interdependent, equitable, and solidarity-based systems of communication and knowledge sharing.
 
-<br />
+The theme of the first issue is **fertile grounds**. As large swathes of the Web decay, we want to explore how its remains can help new networks flourish. In this issue, we invite you to help us take stock of where we are today. What are the raw materials we can work with? What tools can we employ? What worlds can we shape together? 
 
-## Publishing is broken. Creators are struggling. Public discourse is a mess.
+We are looking for works that are approachable, intimate, and grounded in experience. We encourage contributors to examine the Web from a place of abundance, to reflect on the projects, communities, technologies, protocols, and networks that enable authentic and trustful connections. Even as much of existing digital infrastructure fails to embolden truth or bring people together, we want to recognize the parts that give us hope.
 
-Business models on the World Wide Web (WWW) rely on intrusive advertising and onerous paywalls while exploiting creative labor. Many cultural institutions, which have historically raised the quality of works and protected creator livelihoods, are being eroded by the extractive business models of major tech platforms. As a result, creators are atomized and underpaid, quality is undervalued, while opaque platforms reap disproportionate economic benefits.
+This zine is a pilot of Distributed Press, a larger project to build digital publishing infrastructure that is managed collectively and horizontally. In our endeavors, participatory governance will create the feedback loops that help us respond to the evolving needs of our authors and readers. Collective ownership will help us share costs and risks while achieving success together.
 
-## The distributed web presents emerging alternatives.
+### CONTRIBUTING TO COMPOST
 
-The promise of the Distributed Web (DWeb) is that it gives everyone the ability to control their digital networks and platforms. In distributed networks, the underlying code, data, and network infrastructure are managed by many. So theoretically, the DWeb should also empower writers and artists to own and govern digital infrastructure to best suit their needs.
+We invite writers, artists, technologists, and organizers to submit creative pitches for the first issue. You will help us launch COMPOST through your creative contributions and participation in developing a [values-based](https://distributed.press/values/) publishing model.
 
-Yet DWeb projects are unable to provide dependable livelihoods to contributors. This is because, unlike investors and technologists, content creators rarely participate in decision-making at the organizational level. Without giving creators a seat at the table, the potential for the DWeb to be a true digital commons will remain unfulfilled.
+### CREATIVE WORKS
 
-That’s why we need participatory and democratic organizations that ensure meaningful livelihoods and steward the Web of the future.
+Send us your pitches responding to the theme _fertile grounds_ by November 22nd 2020. See our submission template below. Your final work could be: 
 
-## Our plan is to: (1) prototype a magazine published on the DWeb and WWW (2) build a tool for creators to publish and monetize their work.
+Short-form written pieces (~2000 words of fiction/non-fiction, personal essays, profiles, interviews, poems etc.) 
+Visual art, illustrations, gifs, comics, or infographics
+Interactive digital pieces, javascript games, anything that can be embedded in a static HTML webpage
 
-The creators of the magazine and the technologists developing the tool will operate as a publication cooperative.
+We will be publishing works with Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) licensing by default. On a case by case basis, we would support authors who want to experiment with other types of licensing.
 
-Our magazine, COMPOST, will feature writing and graphics about the digital commons, telling stories about people building the web as a shared resource. It will compensate contributors using a sustainable reader membership model. Our tool will allow creators to publish across several web protocols (i.e., HTTP, IPFS, DAT/Hypercore). It will also enable audiences to pay publications and creators directly through micropayments.
+### PARTICIPATION IN DEVELOPMENT
 
-Shared ownership and democratic decision-making will ensure equity and transparency in how revenue is distributed, as well as how capabilities like digital signatures and monetization tools are deployed. The tight feedback loop between creators and technologists will ensure better design and content outcomes.
+As a contributor to COMPOST, you will also participate in strategic decision making and share in the financial success of our magazine. In addition to the time you devote to creating your piece, we ask you to commit another (roughly) six hours to COMPOST before we launch. We will compensate you for this time. You will join us during scheduled conversations to help us:
 
-We want the Web to be a commons — to run on open protocols, be adaptive to feedback, and be maintained and stewarded by sturdy organizations with participatory governance.
+Lay the foundations for COMPOST to become a [co-operative enterprise](https://www.ica.coop/en/cooperatives/what-is-a-cooperative), so that it is democratically owned and controlled by its contributing members;
+Conceptualize and validate new revenue streams using [web monetization](https://webmonetization.org/), Open Collective, and Gitcoin through tips, donations, subscriptions, crowdfunds, or selling premium works and experiences;
+Create a supportive creative environment, encouraging constructive peer feedback and discussions about our magazine’s content and digital implementation;
+Imagine equitable web futures. COMPOST will be published to multiple [DWeb](https://breakermag.com/the-decentralized-web-explained-in-words-you-can-understand/) and Web endpoints, allowing us to use the distinct features of protocols such as [Hypercore](https://hypercore-protocol.org), [IPFS](https://ipfs.io), [SSB](https://scuttlebutt.nz/), among others. What new interactions, communities, and experiences can we cultivate?
 
-## Our project is a seed of the new Web where community and open protocols help to decentralize content distribution and monetization.
+### PAYMENT FOR YOUR CONTRIBUTIONS
 
-We want to provide readers with a variety of creative work, without paywalls or intrusive ads, that are accessible through their choice of Web protocols. We want authors and artists to be equitably compensated for their work, while maintaining agency over their creative expression. We want to ensure technologists are fairly paid for their open source contributions.
+For each contributor, we have budgeted:
 
-Our goal over the next three years is to deploy and maintain an open source tool that authors can use to publish content to the DWeb and WWW. The tool will streamline distribution and monetization on the DWeb, editorial and fact checking, and guide authors to establish creator owned cooperative publications. In turn, the tool will be sustained by the federation of cooperative publications it enables.
+- USD $300 flat fee for participation in development of this project; and an additional
+- USD $300 ~ $800 for creative work, to allow for a range of pieces.
 
-<div class="scroll-below">
-<a href="#publishing-is-broken-creators-are-struggling-public-discourse-is-a-mess"><i class="fas fa-chevron-up"></i></a>
-</div>
+Once the zine is launched, you could also receive additional payments (e.g. through tips, donations, etc.), depending on our joint decisions around revenue streams to pursue and allocation of funds.
+
+### TIMELINE
+
+| Date        | Milestone |
+|:------------|:----------|
+||**Call for Pitches**|
+|`01 NOV 2020`| Call for pitches announced. |
+|`27 NOV 2020`| Deadline for contributors to submit pitches (end of day, anywhere on earth). |
+|`04 DEC 2020`| Pitch acceptance decisions communicated to contributors. |
+||**Creative Development**|
+|`10 DEC 2020`| Project orientation call for selected contributors. |
+|             | Meet each other, present our ideas, review timeline/technical/payment logistics |
+|             | Presentation on co-operative, web monetization, publication |
+|`17 DEC 2020`| Open peer feedback session #1. |
+|`06 JAN 2020`| Contributor draft submission deadline (end of day, anywhere on earth). |
+||**Launch Planning**|
+|`07 JAN 2021`| Discussion on collective ownership and financial success. |
+|`14 JAN 2021`| Project check-in & open feedback session #2. |
+|`21 JAN 2021`| First issue ready for internal review from contributors. |
+|`28 JAN 2021`| First issue soft launched. Pre-release magazine link and promotion materials sent to contributors for review. |
+||**Public Launch**|
+|`01 FEB 2021`| First issue public release. |
+|`11 FEB 2021`| Post-launch call to discuss future steps. |
+
+### SUBMISSION TEMPLATE
+
+Send us your pitches by email to [hello@compost.digital](mailto:hello@compost.digital) with the subject as "Issue One pitch". Please ensure that you have read and understood your commitment to the project before you answer the questions below. Your pitch should answer the following questions (you can copy and paste this template in your email to us):
+
+```
+Your name(s):
+
+Email contact:
+
+Website/link to CV:
+
+Title of piece:
+(A working title is fine)
+
+Media and format:
+(Will this be a written piece, visual art, interactive media, or something else? Please be specific and tell us which file formats we should expect from you)
+
+Describe your piece and your approach (maximum 200 words):
+(How does your piece relate to the theme? What does it say about the digital commons? What will your creative process be?)
+
+Estimated hours:
+(How many hours do you expect to spend on your piece? Please keep in mind the timeline above.)
+
+Is there anything else we should know about you? (maximum 100 words)
+(e.g., Have you had experiences with co-operatives, collective decision making, governance, publishing, or web monetization?)
+
+Do you agree to us publishing your work with a [Creative Commons Attribution-ShareAlike International 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)? If you have another licensing suggestion, please explain your preference. (maximum 50 words)
+```
+
+### CONTACT
+
+Please get in touch at [hello@compost.digital](mailto:hello@compost.digital) for any questions or concerns. We are happy to hear from you!
