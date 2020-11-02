@@ -25,7 +25,7 @@ We invite writers, artists, technologists, and organizers to submit creative pit
 
 ### CREATIVE WORKS
 
-Send us your pitches responding to the theme _fertile grounds_ by November 22nd 2020. See our submission template below. Your final work could be: 
+Send us your pitches responding to the theme _fertile grounds_ by November 27th 2020. See our submission template below. Your final work could be: 
 
 - Short-form written pieces (~2000 words of fiction/non-fiction, personal essays, profiles, interviews, poems etc.) 
 - Visual art, illustrations, gifs, comics, or infographics
@@ -106,3 +106,5 @@ Do you agree to us publishing your work with a [Creative Commons Attribution-Sha
 ### CONTACT
 
 Please get in touch at [hello@compost.digital](mailto:hello@compost.digital) for any questions or concerns. We are happy to hear from you!
+
+_Last updated: 02 NOV 2020_
