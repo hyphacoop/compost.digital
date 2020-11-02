@@ -1,19 +1,19 @@
 ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: Call for Pitches
+layout: page
 ---
 
-<br />
+⚠️ **This website is a perpetual "work in progress" until the launch of our first issue.** ⚠️
 
-# ISSUE ONE: FERTILE GROUNDS
-
-_This website will be a perpetual "work in progress" until the launch of our first issue._
-
-## CALL FOR PITCHES
+# ISSUE 01: FERTILE GROUNDS
 
 **DEADLINE: 27 NOV 2020**
 
 COMPOST is a zine about the digital commons. But we also see it as a process to metabolize and renew our relationships with the Web, to imagine and build interdependent, equitable, and solidarity-based systems of communication and knowledge sharing.
 
-The theme of the first issue is **fertile grounds**. As large swathes of the Web decay, we want to explore how its remains can help new networks flourish. In this issue, we invite you to help us take stock of where we are today. What are the raw materials we can work with? What tools can we employ? What worlds can we shape together? 
+The theme of the first issue is **fertile grounds**. As large swathes of the Web decay, we want to explore how its remains can help new networks flourish. In this issue, we invite you to help us take stock of where we are today. What are the raw materials we can work with? What tools can we employ? What worlds can we shape together?
 
 We are looking for works that are approachable, intimate, and grounded in experience. We encourage contributors to examine the Web from a place of abundance, to reflect on the projects, communities, technologies, protocols, and networks that enable authentic and trustful connections. Even as much of existing digital infrastructure fails to embolden truth or bring people together, we want to recognize the parts that give us hope.
 
@@ -25,9 +25,9 @@ We invite writers, artists, technologists, and organizers to submit creative pit
 
 ### CREATIVE WORKS
 
-Send us your pitches responding to the theme _fertile grounds_ by November 27th 2020. See our submission template below. Your final work could be: 
+Send us your pitches responding to the theme _fertile grounds_ by November 27th 2020. See our submission template below. Your final work could be:
 
-- Short-form written pieces (~2000 words of fiction/non-fiction, personal essays, profiles, interviews, poems etc.) 
+- Short-form written pieces (~2000 words of fiction/non-fiction, personal essays, profiles, interviews, poems etc.)
 - Visual art, illustrations, gifs, comics, or infographics
 - Interactive digital pieces, javascript games, anything that can be embedded in a static HTML webpage
 
@@ -46,37 +46,39 @@ As a contributor to COMPOST, you will also participate in strategic decision mak
 
 For each contributor, we have budgeted:
 
-- USD $300 flat fee for participation in development of this project; and an additional
+- USD \$300 flat fee for participation in development of this project; and an additional
 - USD $300 ~ $800 for creative work, to allow for a range of pieces.
 
 Once the zine is launched, you could also receive additional payments (e.g. through tips, donations, etc.), depending on our joint decisions around revenue streams to pursue and allocation of funds.
 
 ### TIMELINE
 
-| Date        | Milestone |
-|:------------|:----------|
-||**Call for Pitches**|
-|`01 NOV 2020`| Call for pitches announced. |
-|`27 NOV 2020`| Deadline for contributors to submit pitches (end of day, anywhere on earth). |
-|`04 DEC 2020`| Pitch acceptance decisions communicated to contributors. |
-||**Creative Development**|
-|`10 DEC 2020`| Project orientation call for selected contributors. |
-|             | Meet each other, present our ideas, review timeline/technical/payment logistics |
-|             | Presentation on co-operative, web monetization, publication |
-|`17 DEC 2020`| Open peer feedback session #1. |
-|`06 JAN 2020`| Contributor draft submission deadline (end of day, anywhere on earth). |
-||**Launch Planning**|
-|`07 JAN 2021`| Discussion on collective ownership and financial success. |
-|`14 JAN 2021`| Project check-in & open feedback session #2. |
-|`21 JAN 2021`| First issue ready for internal review from contributors. |
-|`28 JAN 2021`| First issue soft launched. Pre-release magazine link and promotion materials sent to contributors for review. |
-||**Public Launch**|
-|`01 FEB 2021`| First issue public release. |
-|`11 FEB 2021`| Post-launch call to discuss future steps. |
+|    Date     | Milestone                                                                                                     |
+| :---------: | :------------------------------------------------------------------------------------------------------------ |
+|             | **Call for Pitches**                                                                                          |
+| 01 NOV 2020 | Call for pitches announced.                                                                                   |
+| 27 NOV 2020 | Deadline for contributors to submit pitches (end of day, anywhere on earth).                                  |
+| 04 DEC 2020 | Pitch acceptance decisions communicated to contributors.                                                      |
+|             | **Creative Development**                                                                                      |
+| 10 DEC 2020 | Project orientation call for selected contributors.                                                           |
+|             | Meet each other, present our ideas, review timeline/technical/payment logistics                               |
+|             | Presentation on co-operative, web monetization, publication                                                   |
+| 17 DEC 2020 | Open peer feedback session #1.                                                                                |
+| 06 JAN 2020 | Contributor draft submission deadline (end of day, anywhere on earth).                                        |
+|             | **Launch Planning**                                                                                           |
+| 07 JAN 2021 | Discussion on collective ownership and financial success.                                                     |
+| 14 JAN 2021 | Project check-in & open feedback session #2.                                                                  |
+| 21 JAN 2021 | First issue ready for internal review from contributors.                                                      |
+| 28 JAN 2021 | First issue soft launched. Pre-release magazine link and promotion materials sent to contributors for review. |
+|             | **Public Launch**                                                                                             |
+| 01 FEB 2021 | First issue public release.                                                                                   |
+| 11 FEB 2021 | Post-launch call to discuss future steps.                                                                     |
 
 ### SUBMISSION TEMPLATE
 
-Send us your pitches by email to [hello@compost.digital](mailto:hello@compost.digital) with the subject as "Issue One pitch". Please ensure that you have read and understood your commitment to the project before you answer the questions below. Your pitch should answer the following questions (you can copy and paste this template in your email to us):
+Send us your pitches by email to [hello@compost.digital](mailto:hello@compost.digital) with the subject as "Issue One pitch". Please ensure that you have read and understood your commitment to the project before you answer the questions below.
+
+Your pitch should answer the following questions (you can copy and fill in this template):
 
 ```
 Your name(s):

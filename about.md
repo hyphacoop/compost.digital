@@ -1,31 +1,39 @@
 ---
+layout: page
+title: About
+permalink: /about/
 ---
 
-<br />
+COMPOST is a magazine about our digital commons that provides fertile ground for creative experimentation, cultivates communities that value participation, and celebrates the labor of regeneration and care. We post experiments, reflections, and art about building the web as a shared resource.
 
-<div class="lede">
-  <p> COMPOST is a magazine about our digital commons that provides fertile ground for creative experimentation, cultivates communities that value participation, and celebrates the labor of regeneration and care. We post experiments, reflections, and art about building the Internet as a shared resource.
-  </p>
+Subscribe to our low traffic mailing list for updates.
 
-<p>
-  Subscribe to our low traffic mailing list for updates.
-</p>
-</div>
+<br>
 
 <form style="line-height:1;" method="post" action="https://lists.hypha.coop/cgi-bin/mailman/subscribe/compost">
-  <input type="email" name="email" value="" placeholder="Your email">
-  <input type="text" name="fullname" value="" placeholder="Your name (optional)">
-  <input type="hidden" name="digest" value="1">
-  <input type="submit" name="email-button" value="SUBSCRIBE">
+  <input type="email" name="email" value="" placeholder="Your email" style = "border-width: 0; background: transparent; border-radius: 0; outline: 0; border-bottom: 1px solid black;">
+  <input type="text" name="fullname" value="" placeholder="Your name (optional)" style = "border-width: 0; background: transparent; border-radius: 0; outline: 0; border-bottom: 1px solid black;">
+  <input type="hidden" name="digest" value="1" style = "border-width: 0; background: transparent; border-radius: 0; outline: 0; border-bottom: 1px solid black;">
+  <input type="submit" name="email-button" value="SUBSCRIBE" style="border-radius: 0px; border: 1px solid black; cursor: pointer; background-color: rgb(0,0,0,0);">
 </form>
 
-<div style="clear:both;"></div>
-
-<div class="scroll-below">
-<a href="#publishing-is-broken-creators-are-struggling-public-discourse-is-a-mess"><i class="fas fa-chevron-down"></i></a>
+<br>
+<br>
+<br>
+<div class="scroll-below" style="text-align:center">
+<p><a href="#publishing-is-broken-creators-are-struggling-public-discourse-is-a-mess">Read more below.</a></p>
+<a href="#publishing-is-broken-creators-are-struggling-public-discourse-is-a-mess">↓</a>
 </div>
-
-<br />
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Publishing is broken. Creators are struggling. Public discourse is a mess.
 
@@ -57,21 +65,13 @@ Our goal over the next three years is to deploy and maintain an open source tool
 
 ## Partners and supporters
 
-<table>
-  <tr>
-    <td><img src="/img/logos/logo-hypha.png" height="150px" /></td>
-    <td><img src="/img/logos/logo-gftw.png" height="150px" /></td>
-    <td><img src="/img/logos/logo-madebysuper.png" height="150px" /></td>
-    <td><img src="/img/logos/logo-simplysecure.png" height="150px" /></td>
-  </tr>
-</table>
+<img src="/assets/images/logo-hypha.png" style="vertical-align:top; padding-right:5%; max-width:20%; max-height:100px;">
+<img src="/assets/images/logo-gftw.png" style="vertical-align:top; padding-right:5%; max-width:20%; max-height:100px;">
+<img src="/assets/images/logo-madebysuper.png" style="vertical-align:top; padding-right:5%; max-width:20%; max-height:100px;">
+<img src="/assets/images/logo-simplysecure.png" style="vertical-align:top; padding-right:5%; max-width:20%; max-height:100px;">
 
 ## Fundraising
 
-<table>
-  <tr>
-    <td><img src="/img/logos/logo-webmonetization.png" height="120px" /></td>
-    <td><img src="/img/logos/logo-gitcoin.png" height="120px" /></td>
-    <td><img src="/img/logos/logo-opencollective.png" height="80px" /></td>
-  </tr>
-</table>
+<img src="/assets/images/logo-webmonetization.png" style="vertical-align:top; padding-right:5%; max-width:20%; max-height:100px;">
+<img src="/assets/images/logo-gitcoin.png" style="vertical-align:top; padding-right:5%; max-width:20%; max-height:100px;">
+<img src="/assets/images/logo-opencollective.png" style="vertical-align:top; padding-right:5%; max-width:20%; max-height:100px;">
