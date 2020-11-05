@@ -33,7 +33,7 @@ Send us your pitches responding to the theme _fertile grounds_ by December 8th 2
 - Visual art, illustrations, gifs, comics, or infographics
 - Interactive digital pieces, javascript games, anything that can be embedded in a static HTML webpage
 
-We will be publishing works with Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) licensing by default. On a case by case basis, we would support authors who want to experiment with other types of licensing.
+We will be publishing works with [Creative Commons Attribution-ShareAlike International 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) licensing by default. On a case by case basis, we would support authors who want to experiment with other types of licensing.
 
 ### PARTICIPATION IN DEVELOPMENT
 
@@ -103,7 +103,7 @@ Send us your pitches by email to [hello@compost.digital](mailto:hello@compost.di
 >Is there anything else we should know about you? (maximum 100 words)
 >(e.g., Have you had experiences with co-operatives, collective decision making, governance, publishing, or web monetization?)
 >
->Do you agree to us publishing your work with a [Creative Commons Attribution-ShareAlike International 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)? If you have another licensing suggestion, please explain your preference. (maximum 50 words)
+>Do you agree to us publishing your work with a Creative Commons Attribution-ShareAlike International 4.0 license (CC BY-SA 4.0)? If you have another licensing suggestion, please explain your preference. (maximum 50 words)
 
 
 ### CONTACT
