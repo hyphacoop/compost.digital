@@ -37,7 +37,7 @@ We will be publishing works with [Creative Commons Attribution-ShareAlike Intern
 
 ### PARTICIPATION IN DEVELOPMENT
 
-As a contributor to COMPOST, you will also participate in strategic decision making and share in the financial success of our magazine. In addition to the time you devote to creating your piece, we ask you to commit another (roughly) six hours to COMPOST before we launch. We will compensate you for this time. You will join us during scheduled conversations to help us:
+As a contributor to COMPOST, you will also participate in strategic decision making and share in the financial success of our magazine. In addition to the time you devote to creating your piece, **we ask you to commit another (roughly) six hours to COMPOST before we launch. We will compensate you for this time.** You will join us during scheduled conversations to help us:
 
 - Lay the foundations for COMPOST to become a [co-operative enterprise](https://www.ica.coop/en/cooperatives/what-is-a-cooperative), so that it is democratically owned and controlled by its contributing members;
 - Conceptualize and validate new revenue streams using [web monetization](https://webmonetization.org/), Open Collective, and Gitcoin through tips, donations, subscriptions, crowdfunds, or selling premium works and experiences;
@@ -98,7 +98,7 @@ Send us your pitches by email to [hello@compost.digital](mailto:hello@compost.di
 >(How does your piece relate to the theme? What does it say about the digital commons? What will your creative process be?)
 >
 >Estimated hours:
->(How many hours do you expect to spend on your piece? Please keep in mind the timeline above.)
+>(How many hours do you expect to spend on your piece? This is on top of the 6 hours required for development. Also please keep in mind the timeline above.)
 >
 >Is there anything else we should know about you? (maximum 100 words)
 >(e.g., Have you had experiences with co-operatives, collective decision making, governance, publishing, or web monetization?)
