@@ -68,7 +68,7 @@ Our goal over the next three years is to deploy and maintain an open source tool
 <a href="https://hypha.coop" target="_blank"><img src="/assets/images/logo-hypha.png" style="vertical-align:top; padding-right:5%; max-width:20%; max-height:100px;"></a>
 <a href="https://grantfortheweb.org" target="_blank"><img src="/assets/images/logo-gftw.png" style="vertical-align:top; padding-right:5%; max-width:20%; max-height:100px;"></a>
 <a href="https://www.madebysuper.com" target="_blank"><img src="/assets/images/logo-madebysuper.png" style="vertical-align:top; padding-right:5%; max-width:20%; max-height:100px;"></a>
-<a href="https://simplysecure.org" target="_blank"><img src="/assets/images/logo-simplysecure.png" style="vertical-align:top; padding-right:5%; max-width:20%; max-height:100px;"></a>
+<a href="https://simplysecure.org" target="_blank"><img src="/assets/images/simply-secure-logo_vert.png" style="vertical-align:top; padding-right:5%; max-width:20%; max-height:100px;"></a>
 
 ## Fundraising
 
