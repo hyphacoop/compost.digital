@@ -82,32 +82,32 @@ Send us your pitches by email to [hello@compost.digital](mailto:hello@compost.di
 
 Your pitch should answer the following questions (you can copy and fill in this template):
 
->Your name(s):
+>Your name(s):  
 >
->Email contact:
+>Email contact:  
 >
->Website/link to CV:
+>Website/link to CV:  
 >
->Title of piece:
->(A working title is fine)
+>Title of piece:  
+>_(A working title is fine)_
 >
->Media and format:
->(Will this be a written piece, visual art, interactive media, or something else? Please be specific and tell us which file formats we should expect from you)
+>Media and format:  
+>_(Will this be a written piece, visual art, interactive media, or something else? Please be specific and tell us which file formats we should expect from you.)_
 >
->Describe your piece and your approach (maximum 200 words):
->(How does your piece relate to the theme? What does it say about the digital commons? What will your creative process be?)
+>Describe your piece and your approach (maximum 200 words):  
+>_(How does your piece relate to the theme? What does it say about the digital commons? What will your creative process be?)_
 >
->Estimated hours:
->(How many hours do you expect to spend on your piece? This is on top of the 6 hours required for development. Also please keep in mind the timeline above.)
+>Estimated hours:  
+>_(How many hours do you expect to spend on your piece? This is on top of the 6 hours required for development. Also please keep in mind the timeline above.)_
 >
->Is there anything else we should know about you? (maximum 100 words)
->(e.g., Have you had experiences with co-operatives, collective decision making, governance, publishing, or web monetization?)
+>Is there anything else we should know about you (maximum 100 words):  
+>_(e.g., Have you had experiences with co-operatives, collective decision making, governance, publishing, or web monetization?)_
 >
->Do you agree to us publishing your work with a Creative Commons Attribution-ShareAlike International 4.0 license (CC BY-SA 4.0)? If you have another licensing suggestion, please explain your preference. (maximum 50 words)
+>Do you agree to us publishing your work with a Creative Commons Attribution-ShareAlike International 4.0 license (CC BY-SA 4.0)? If you have another licensing suggestion, please explain your preference (maximum 50 words):  
 
 
 ### CONTACT
 
 Please get in touch at [hello@compost.digital](mailto:hello@compost.digital) for any questions or concerns. We are happy to hear from you!
 
-_Last updated: 04 NOV 2020_
+_Last updated: 08 NOV 2020_
