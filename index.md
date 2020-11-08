@@ -33,7 +33,7 @@ Send us your pitches responding to the theme _fertile grounds_ by December 8th 2
 - Visual art, illustrations, gifs, comics, or infographics
 - Interactive digital pieces, javascript games, anything that can be embedded in a static HTML webpage
 
-We will be publishing works with [Creative Commons Attribution-ShareAlike International 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) licensing by default. On a case by case basis, we would support authors who want to experiment with other types of licensing.
+We will be publishing works with the [Creative Commons Attribution-ShareAlike International 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) by default. On a case by case basis, we would support authors who want to experiment with other types of licensing.
 
 ### PARTICIPATION IN DEVELOPMENT
 
@@ -80,8 +80,8 @@ Once the magazine is launched, you could also receive additional payments (e.g. 
 
 Send us your pitches by email to [hello@compost.digital](mailto:hello@compost.digital) with the subject as "Issue One pitch". Please ensure that you have read and understood your commitment to the project before you answer the questions below.
 
->Your pitch should answer the following questions (you can copy and fill in this template):
->
+Your pitch should answer the following questions (you can copy and fill in this template):
+
 >Your name(s):
 >
 >Email contact:
