@@ -101,7 +101,7 @@ Your pitch should answer the following questions (you can copy and fill in this 
 >_(How many hours do you expect to spend on your piece? This is on top of the 6 hours required for development. Also please keep in mind the timeline above.)_
 >
 >Is there anything else we should know about you (maximum 100 words):  
->_(e.g., Have you had experiences with co-operatives, collective decision making, governance, publishing, or web monetization?)_
+>_(Please describe any experience you have with collective decision-making, governance, co-operatives, publishing, or web monetization.)_
 >
 >Do you agree to us publishing your work with a Creative Commons Attribution-ShareAlike International 4.0 license (CC BY-SA 4.0)? If you have another licensing suggestion, please explain your preference (maximum 50 words):  
 
