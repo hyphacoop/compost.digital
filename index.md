@@ -78,7 +78,7 @@ Once the magazine is launched, you could also receive additional payments (e.g. 
 
 ### SUBMISSION TEMPLATE
 
-Send us your pitches by email to [pitches@compost.digital](mailto:pitches@compost.digital) with the subject as "Issue One pitch". Please ensure that you have read and understood your commitment to the project before you answer the questions below.
+Send us your pitches by email to [hello@compost.digital](mailto:hello@compost.digital) with the subject as "Issue One pitch". Please ensure that you have read and understood your commitment to the project before you answer the questions below.
 
 Your pitch should answer the following questions (you can copy and fill in this template):
 
