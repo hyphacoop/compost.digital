@@ -48,7 +48,7 @@ Once the magazine is launched, contributors could also receive additional paymen
 |             | **Call for Pitches**                                                                                          |
 | 09 NOV 2020 | Call for pitches announced.                                                                                   |
 | 08 DEC 2020 | Deadline for contributors to submit pitches (end of day, anywhere on earth).                                  |
-| 16 DEC 2020 | Pitch acceptance decisions communicated to contributors. (*Delayed from 11 Dec*)                              |
+| 16 DEC 2020 | Pitch acceptance decisions communicated to contributors. (Delayed from 11 Dec)                                |
 |             | **Creative Development**                                                                                      |
 | 21 DEC 2020 | Week of project orientation calls for selected contributors. (Before Christmas)                               |
 |             | Meet each other, present our ideas, review timeline/technical/payment logistics                               |
