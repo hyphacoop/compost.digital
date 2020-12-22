@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 COMPOST is a magazine about our digital commons that provides fertile ground for creative experimentation, cultivates communities that value participation, and celebrates the labor of regeneration and care. We post experiments, reflections, and art about building the web as a shared resource.
