@@ -13,8 +13,6 @@ This is a project of the [Distributed Press](https://distributed.press), made po
 
 # ISSUE 01: FERTILE GROUNDS
 
-**Our Call for Pitches has closed. Thank you to everyone who sent us a pitch. We received over 115 pitches (!) so we are running a bit behind schedule. We will be getting back to everyone by Wed 16 December 2020. Thank you for your patience!**
-
 The theme of the first issue is **fertile grounds**. As large swathes of the Web decay, we want to explore how its remains can help new networks flourish. What are the raw materials we can work with? What tools can we employ? What worlds can we shape together?
 
 We are featuring works that are approachable, intimate, and grounded in experience. Contributors are examining the Web from a place of abundance, to reflect on the projects, communities, technologies, protocols, and networks that enable authentic and trustful connections. Even as much of existing digital infrastructure fails to embolden truth or bring people together, we want to recognize the parts that give us hope.
