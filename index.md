@@ -9,7 +9,7 @@ layout: page
 
 COMPOST is a magazine about the digital commons. But we also see it as a process to metabolize and renew our relationships with the Web, to imagine and build interdependent, equitable, and solidarity-based systems of communication and knowledge sharing.
 
-This is a project of the [Distributed Press](https://distributed.press), made possible by our [partners and supporters](./about/#partners-and-supporters).
+This is a project of the [Distributed Press](https://distributed.press), made possible by our [partners and supporters](./about.html#partners-and-supporters).
 
 # ISSUE 01: FERTILE GROUNDS
 
@@ -67,4 +67,4 @@ Once the magazine is launched, contributors could also receive additional paymen
 
 Please get in touch at [hello@compost.digital](mailto:hello@compost.digital) for any questions or concerns. We are happy to hear from you!
 
-_Last updated: 13 DEC 2020_
+_Last updated: 22 DEC 2020_
