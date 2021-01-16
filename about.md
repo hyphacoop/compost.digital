@@ -15,8 +15,8 @@ Subscribe to our low traffic mailing list for updates.
   <input type="hidden" name="digest" value="1" style = "border-width: 0; background: transparent; border-radius: 0; outline: 0; border-bottom: 1px solid black;">
   <input type="submit" name="email-button" value="SUBSCRIBE" style="border-radius: 0px; border: 1px solid black; cursor: pointer; background-color: rgb(0,0,0,0);">
 </form>
-
 <br>
+<p>You can also follow us on <a href="https://www.twitter.com/COMPOSTmag">Twitter</a> and <a href="https://social.coop/@COMPOST">Mastodon</a>.</p>
 <br>
 <br>
 <div class="scroll-below" style="text-align:center">
