@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Call for Pitches
+title: About
 layout: page
 ---
 
@@ -54,8 +54,8 @@ Once the magazine is launched, contributors could also receive additional paymen
 | 06 JAN 2020 | Open peer feedback session.                                                                                   |
 | 13 JAN 2020 | Contributor draft submission deadline (end of day, anywhere on earth).                                        |
 |             | **Launch Planning**                                                                                           |
-| 14 JAN 2021 | Discussion on collective ownership and financial success.                                                     |
-| 21 JAN 2021 | Collective strategizing on publication and monetization features.                                             |
+| 25 JAN 2021 | Discussion on collective ownership and financial success.                                                     |
+| 01 FEB 2021 | Collective strategizing on publication and monetization features.                                             |
 | 12 FEB 2021 | First issue ready for internal review from contributors.                                                      |
 | 19 FEB 2021 | First issue soft launched. Pre-release magazine link and promotion materials sent to contributors for review. |
 |             | **Public Launch**                                                                                             |
@@ -67,4 +67,4 @@ Once the magazine is launched, contributors could also receive additional paymen
 
 Please get in touch at [hello@compost.digital](mailto:hello@compost.digital) for any questions or concerns. We are happy to hear from you!
 
-_Last updated: 22 DEC 2020_
+_Last updated: 15 JAN 2020_
