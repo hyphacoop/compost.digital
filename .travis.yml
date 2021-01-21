@@ -14,14 +14,14 @@ before_script:
 
 cache: bundler
 
-script: travis_retry bundle exec htmlproofer --check-html --allow-hash-href ./_site
+# script: travis_retry bundle exec htmlproofer --check-html --allow-hash-href ./_site
 
 deploy:
   # Cleanup removes keys and build artefacts.
   # See: https://docs.travis-ci.com/user/deployment/#Uploading-Files-and-skip_cleanup
   skip_cleanup: true
   provider: script
-  script: bash .distributed-press/deploy.sh $api_staging.compost.digital 
+  script: bash .distributed-press/deploy.sh $api_staging 
   on:
     branch:
       - deploy-staging
