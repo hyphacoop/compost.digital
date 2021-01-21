@@ -1,0 +1,30 @@
+language: ruby
+rvm:
+  - 2.7.0
+
+before_install:
+  # Bundler 2.0 support
+  # See: https://docs.travis-ci.com/user/languages/ruby/#bundler-20
+  - gem update --system
+  - gem install bundler
+
+before_script:
+  # Build Jekyll site
+  - bundle exec jekyll build
+
+cache: bundler
+
+script: travis_retry bundle exec htmlproofer --check-html --allow-hash-href ./_site
+
+deploy:
+  # Cleanup removes keys and build artefacts.
+  # See: https://docs.travis-ci.com/user/deployment/#Uploading-Files-and-skip_cleanup
+  skip_cleanup: true
+  provider: script
+  script: bash .distributed-press/deploy.sh $api_staging.compost.digital 
+  on:
+    branch:
+      - deploy-staging
+
+notifications:
+  email: false
