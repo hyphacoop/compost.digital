@@ -27,8 +27,8 @@ mastodon:
 # Site url on other protocols
 dweb:
   schemes:
-    hyper: staging.compost.digital
-    ipns: staging.compost.digital
+    hyper: compost.digital
+    ipns: compost.digital
   gateways:
     hypercore: https://hyper.distributed.press
     ipfs: https://ipfs.distributed.press
