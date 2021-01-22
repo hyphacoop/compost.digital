@@ -18,10 +18,10 @@ deploy:
   # See: https://docs.travis-ci.com/user/deployment/#Uploading-Files-and-skip_cleanup
   skip_cleanup: true
   provider: script
-  script: bash .distributed-press/deploy.sh $api_staging && .distributed-press/deploy.sh $api_prod
+  script: bash .distributed-press/deploy.sh $api_staging ./.distributed-press/config.staging.json www.tar.gz && .distributed-press/deploy.sh $api_prod ./.distributed-press/config.prod.json www.tar.gz
   on:
     branch:
-      - deploy-staging
+      - master
 
 notifications:
   email: false
