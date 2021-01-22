@@ -18,7 +18,7 @@ deploy:
   # See: https://docs.travis-ci.com/user/deployment/#Uploading-Files-and-skip_cleanup
   skip_cleanup: true
   provider: script
-  script: bash .distributed-press/deploy.sh $api_staging 
+  script: bash .distributed-press/deploy.sh $api_staging && .distributed-press/deploy.sh $api_prod
   on:
     branch:
       - deploy-staging
