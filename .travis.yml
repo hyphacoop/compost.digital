@@ -6,15 +6,12 @@ before_install:
   # Bundler 2.0 support
   # See: https://docs.travis-ci.com/user/languages/ruby/#bundler-20
   - gem update --system
-  - gem install bundler
+  - gem install jekyll bundler
 
-before_script:
+script:
   # Build Jekyll site
+  - bundle install
   - bundle exec jekyll build
-
-cache: bundler
-
-# script: travis_retry bundle exec htmlproofer --check-html --allow-hash-href ./_site
 
 deploy:
   # Cleanup removes keys and build artefacts.
