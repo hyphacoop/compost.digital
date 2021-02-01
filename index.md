@@ -55,16 +55,16 @@ Once the magazine is launched, contributors could also receive additional paymen
 | 13 JAN 2020 | Contributor draft submission deadline (end of day, anywhere on earth).                                        |
 |             | **Launch Planning**                                                                                           |
 | 25 JAN 2021 | Discussion on collective ownership and financial success.                                                     |
-| 01 FEB 2021 | Collective strategizing on publication and monetization features.                                             |
-| 12 FEB 2021 | First issue ready for internal review from contributors.                                                      |
-| 19 FEB 2021 | First issue soft launched. Pre-release magazine link and promotion materials sent to contributors for review. |
+| 09 FEB 2021 | Collective strategizing on publication and monetization features.                                             |
+| 19 FEB 2021 | First issue ready for internal review from contributors.                                                      |
+| 26 FEB 2021 | First issue soft launched. Pre-release magazine link and promotion materials sent to contributors for review. |
 |             | **Public Launch**                                                                                             |
-| 24 FEB 2021 | First issue public release.                                                                                   |
-| 08 MAR 2021 | Post-launch call to discuss future steps.                                                                     |
+| 05 MAR 2021 | First issue public release.                                                                                   |
+| 12 MAR 2021 | Post-launch call to discuss future steps.                                                                     |
 
 
 ### CONTACT
 
 Please get in touch at [hello@compost.digital](mailto:hello@compost.digital) for any questions or concerns. We are happy to hear from you!
 
-_Last updated: 15 JAN 2020_
+_Last updated: 1 FEB 2020_
