@@ -67,4 +67,4 @@ Once the magazine is launched, contributors could also receive additional paymen
 
 Please get in touch at [hello@compost.digital](mailto:hello@compost.digital) for any questions or concerns. We are happy to hear from you!
 
-_Last updated: 1 FEB 2020_
+_Last updated: 3 FEB 2021_
