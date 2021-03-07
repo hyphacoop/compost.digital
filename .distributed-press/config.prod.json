@@ -1,5 +1,13 @@
 {
   "domain": "compost.digital",
+  "publication": {
+    "protocol": {
+      "http": {
+          "enabled": false,
+          "purgeIfDisabled": false
+      }
+    }
+  },
   "monetization": {
     "accounts": [
       {
@@ -21,4 +29,3 @@
     "currency": "CAD"
   }
 }
-
