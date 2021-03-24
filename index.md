@@ -5,11 +5,11 @@ title: About
 layout: page
 ---
 
-⚠️ **This website is a perpetual "work in progress" until the launch of our first issue.** ⚠️
-
 COMPOST is a magazine about the digital commons. But we also see it as a process to metabolize and renew our relationships with the Web, to imagine and build interdependent, equitable, and solidarity-based systems of communication and knowledge sharing.
 
 This is a project of the [Distributed Press](https://distributed.press), made possible by our [partners and supporters](./about.html#partners-and-supporters).
+
+## **Check out [ISSUE 01: FERTILE GROUNDS](https://one.compost.digital).**
 
 # ISSUE 01: FERTILE GROUNDS
 

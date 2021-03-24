@@ -3,20 +3,19 @@ layout: page
 title: Contact
 ---
 
-COMPOST is a magazine about our digital commons that provides fertile ground for creative experimentation, cultivates communities that value participation, and celebrates the labor of regeneration and care. We post experiments, reflections, and art about building the web as a shared resource.
+## Subscribe to our [low traffic mailing list](https://link.hypha.coop/compost-newsletter) for updates.
 
-Subscribe to our low traffic mailing list for updates.
+## You can also follow us on <a href="https://www.twitter.com/COMPOSTmag">Twitter</a> and <a href="https://social.coop/@COMPOST">Mastodon</a>.
 
 <br>
-
-<form style="line-height:1;" method="post" action="https://lists.hypha.coop/cgi-bin/mailman/subscribe/compost">
-  <input type="email" name="email" value="" placeholder="Your email" style = "border-width: 0; background: transparent; border-radius: 0; outline: 0; border-bottom: 1px solid black;">
-  <input type="text" name="fullname" value="" placeholder="Your name (optional)" style = "border-width: 0; background: transparent; border-radius: 0; outline: 0; border-bottom: 1px solid black;">
-  <input type="hidden" name="digest" value="1" style = "border-width: 0; background: transparent; border-radius: 0; outline: 0; border-bottom: 1px solid black;">
-  <input type="submit" name="email-button" value="SUBSCRIBE" style="border-radius: 0px; border: 1px solid black; cursor: pointer; background-color: rgb(0,0,0,0);">
-</form>
 <br>
-<p>You can also follow us on <a href="https://www.twitter.com/COMPOSTmag">Twitter</a> and <a href="https://social.coop/@COMPOST">Mastodon</a>.</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <div class="scroll-below" style="text-align:center">
