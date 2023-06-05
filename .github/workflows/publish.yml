@@ -1,0 +1,28 @@
+name: Publish
+
+# Controls when the action will run.
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ master ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2-beta
+        with:
+          node-version: '18'
+
+      - name: Publish to Distributed Press
+        uses: hyphacoop/actions-distributed-press@v1.1
+        with:
+          publish_dir: ./
+          dp_url: https://api.distributed.press
+          refresh_token: ${{ secrets.DISTRIBUTED_PRESS_TOKEN }}
+          site_url: compost.digital
