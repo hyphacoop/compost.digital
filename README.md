@@ -1,5 +1,7 @@
 # COMPOST.digital
 
-Website for [COMPOST](https://compost.digital)—a magazine about the digital commons providing fertile ground for creative and collective experimentation 🪱
+Redirect for COMPOST.
 
-The website is generated with [Jekyll](http://jekyllrb.com) and uses a modified [minima](https://github.com/jekyll/minima) theme.
+This is published to https://compost.digital and is used to redirect users to the latest issue.
+
+Whenever a new issue is released, update `index.html` to point to it and trigger the publish action on github.
